@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da92b5b1-3a7c-4a4c-b67c-b8d64b18283c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.rnd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Auth/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Auth/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Auth/Reset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Functions/LoggedIn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Guest/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/booknow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/booknow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +34,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/components/Navbar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="61" column="76" selection-start-line="61" selection-start-column="76" selection-end-line="61" selection-end-column="76" />
+            <state relative-caret-position="336">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -130,6 +124,7 @@
         <option value="$PROJECT_DIR$/resources/js/components/Auth/Login.js" />
         <option value="$PROJECT_DIR$/resources/js/components/Guest/Home.js" />
         <option value="$PROJECT_DIR$/resources/js/components/Navbar.js" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -236,6 +231,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
       <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/nwidart/laravel-modules" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -257,6 +253,32 @@
             <path>
               <item name="booknow" type="b2602c69:ProjectViewProjectNode" />
               <item name="booknow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booknow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="booknow" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booknow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="booknow" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booknow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="booknow" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="booknow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="booknow" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="booknow" type="b2602c69:ProjectViewProjectNode" />
@@ -331,7 +353,7 @@
       <workItem from="1576742646731" duration="19836000" />
       <workItem from="1576776749504" duration="1344000" />
       <workItem from="1576833548269" duration="9388000" />
-      <workItem from="1576859328758" duration="4332000" />
+      <workItem from="1576859328758" duration="5403000" />
     </task>
     <task id="LOCAL-00001" summary="passport, npm and working react added">
       <created>1576744164982</created>
@@ -340,17 +362,23 @@
       <option name="project" value="LOCAL" />
       <updated>1576744164982</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Login implemented with redirection">
+      <created>1576865304043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576865304043</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37141000" />
+    <option name="totallyTimeSpent" value="38212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -363,7 +391,7 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.16752137" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.21196581" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32991454" />
@@ -401,7 +429,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="passport, npm and working react added" />
-    <option name="LAST_COMMIT_MESSAGE" value="passport, npm and working react added" />
+    <MESSAGE value="Login implemented with redirection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login implemented with redirection" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.env">
@@ -494,9 +523,6 @@
         <state relative-caret-position="-144" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/components/Functions/LoggedIn.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -546,11 +572,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/components/Navbar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="61" column="76" selection-start-line="61" selection-start-column="76" selection-end-line="61" selection-end-column="76" />
+        <state relative-caret-position="336">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
         </state>
       </provider>
     </entry>
